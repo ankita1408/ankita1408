@@ -1,4 +1,4 @@
-# Data Science and Data Analytics basic programming concepts
+# Data Science and Data Analytics basic concepts
 - [PYTHON](https://github.com/ankita1408/python)
 - [SQL](https://github.com/ankita1408/sql.git)
 - [Machine Learning](comming soon)
