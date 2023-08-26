@@ -27,5 +27,4 @@ Data Analytics, Data Science, Business Analytics
 - [PowerBi](https://github.com/ankita1408/power-bi)
 - [Machine Learning](comming soon)
 - [Tableau](comming soon)
-- [Power BI](comming soon)
 - [AWS](comming soon)
