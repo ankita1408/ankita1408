@@ -24,6 +24,7 @@ Data Analytics, Data Science, Business Analytics
 # Data Science and Data Analytics basic concepts
 - [PYTHON](https://github.com/ankita1408/python)
 - [SQL](https://github.com/ankita1408/sql.git)
+- [PowerBi](https://github.com/ankita1408/power-bi)
 - [Machine Learning](comming soon)
 - [Tableau](comming soon)
 - [Power BI](comming soon)
