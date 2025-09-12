@@ -25,7 +25,7 @@ Analyzed population trends from 1970 to 2022 across countries and continents usi
 ## [Covid-19 Data Analysis](https://github.com/ankita1408/SQL_TABLEAU_PROJECT)
 SQL-based analysis and Tableau visualization of Covid-19 data, showing global cases, deaths, and vaccination trends.
 
-## [Customer Call List Data Cleaning](https://github.com/ankita1408/PYTHON_PROJECTS/tree/master/DATA%20CLEANING%20IN%20PANDAS))
+## [Customer Call List Data Cleaning](https://github.com/ankita1408/PYTHON_PROJECTS/tree/master/DATA%20CLEANING%20IN%20PANDAS)
 Cleaned and preprocessed customer data, ensuring high data quality and removing inconsistencies.
 
 ## [India's Largest Companies Web Scraping](https://github.com/ankita1408/PYTHON_PROJECTS/tree/master/web_scrapping)
