@@ -11,8 +11,8 @@ I am a **fresher in Data Analytics and Data Science** with a passion for transfo
 - 
 ## 🧩 Coding Profiles
 
-- 🟡 **LeetCode:** https://leetcode.com/YOUR_LEETCODE_USERNAME/
-- 🟢 **HackerRank:** https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME
+- 🟡 **LeetCode:**[ https://leetcode.com/YOUR_LEETCODE_USERNAME/](https://leetcode.com/u/ankitabiradar1408/)
+- 🟢 **HackerRank:** [https://www.hackerrank.com/profile/ankitabiradar141](https://www.hackerrank.com/profile/ankitabiradar141)
 
 
 ## About Me
