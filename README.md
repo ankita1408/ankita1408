@@ -8,6 +8,12 @@ I am a **fresher in Data Analytics and Data Science** with a passion for transfo
 - 💼 LinkedIn: [Ankita Biradar](https://www.linkedin.com/in/ankitabiradar/)
 - 🐦 X/Twitter: [@biradar_ankita](https://x.com/biradar_ankita)
 - 🐙 GitHub: [ankita1408](https://github.com/ankita1408)
+- 
+## 🧩 Coding Profiles
+
+- 🟡 **LeetCode:** https://leetcode.com/YOUR_LEETCODE_USERNAME/
+- 🟢 **HackerRank:** https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME
+
 
 ## About Me
 
